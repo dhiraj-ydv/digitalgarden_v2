@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-india-s-cbdc-will-fit-into-digital-payments/"}
+{"dg-publish":true,"permalink":"/how-india-s-cbdc-will-fit-into-digital-payments/","tags":["gardenEntry"]}
 ---
 
 The RBI has launched the Indian CBDC, known as the E-Rupee. This should not be confused with e-RUPI, which refers to prepaid vouchers from the Government of India.
