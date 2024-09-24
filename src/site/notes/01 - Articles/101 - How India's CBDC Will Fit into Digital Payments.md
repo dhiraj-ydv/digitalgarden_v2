@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-articles/101-how-india-s-cbdc-will-fit-into-digital-payments/","created":"2024-09-24T15:37:43.541+05:30","updated":"2024-09-24T20:23:32.010+05:30"}
+{"dg-publish":true,"permalink":"/01-articles/101-how-india-s-cbdc-will-fit-into-digital-payments/","created":"2024-09-24T15:37:43.541+05:30","updated":"2024-09-24T21:03:38.898+05:30"}
 ---
 
 
