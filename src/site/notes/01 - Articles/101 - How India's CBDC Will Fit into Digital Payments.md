@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-articles/101-how-india-s-cbdc-will-fit-into-digital-payments/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-articles/101-how-india-s-cbdc-will-fit-into-digital-payments/","tags":["gardenEntry"],"created":"2024-09-24T15:37:43.541+05:30","updated":"2024-09-24T18:01:08.445+05:30"}
 ---
 
 # How India's CBDC Will Fit into Digital Payments
