@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/zen-new/","noteIcon":""}
+{"dg-publish":true,"permalink":"/zen-new/"}
 ---
 
