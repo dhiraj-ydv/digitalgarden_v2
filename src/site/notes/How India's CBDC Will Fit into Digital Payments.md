@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-india-s-cbdc-will-fit-into-digital-payments/"}
+{"dg-publish":true,"permalink":"/how-india-s-cbdc-will-fit-into-digital-payments/","tags":["gardenEntry"]}
 ---
 
 
